@@ -1,6 +1,6 @@
 Olá, me chamo Gustavo Mendes, no momento estou estudando React/JavaScript e procuro emprego na área!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mendes40_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mendes40_icons=false&theme=radical)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mendes-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
