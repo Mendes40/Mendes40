@@ -1,4 +1,4 @@
-Olá, me chamo Gustavo Mendes, no momento estou estudando React/JavaScript e procuro emprego na área!
+Olá, me chamo Gustavo Mendes, no momento estou estudando ReactJS e procuro emprego na área!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mendes40&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
