@@ -1,4 +1,4 @@
-Olá, me chamo Gustavo Mendes, no momento estou estudando ReactJS e procuro emprego na área!
+Olá, me chamo Gustavo Mendes, busco estágio em area correaltas a Analise e Desenvolvimento de Sistemas!
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
