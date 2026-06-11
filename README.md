@@ -8,7 +8,7 @@
 
 <br>
 
-## `> profile.init()`
+## `>
 
 ```diff
 + Nome .......... Gustavo Mendes Soares
@@ -110,7 +110,7 @@ Desenvolvedor **Full Stack** com experiência em **coleta, tratamento e exposiç
 
 <br>
 
-## `> snake.process()` — rosa choque no grid
+## `> 
 
 <div align="center">
 
