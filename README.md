@@ -20,26 +20,58 @@
   <a href="mailto:msoares.gu@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  <a href="https://www.drear.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/Drear-drear.com.br-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Drear"/>
+  </a>
 
 </div>
 
 <br>
 
-## Projeto em destaque — Drear
+## Experiência — Drear
+
+<div align="center">
+
+  <a href="https://github.com/DD-Desenvolvimento-de-Sistemas" target="_blank">
+    <img src="https://img.shields.io/badge/Organização-DD--Desenvolvimento--de--Sistemas-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff" alt="GitHub Drear"/>
+  </a>
+  <a href="https://www.drear.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/Site-drear.com.br-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Site Drear"/>
+  </a>
+  <a href="https://www.linkedin.com/company/drear" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Drear-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Drear"/>
+  </a>
+
+</div>
+
+<br>
 
 <table>
   <tr>
-    <td width="70%" valign="top">
+    <td width="20%" align="center" valign="top">
 
-**Atuação principal em desenvolvimento web**, com foco em aplicações modernas usando a stack **JavaScript / TypeScript / React**.
+<br>
 
-**O que faço no projeto:**
-- Commits frequentes em features e correções
-- Abertura e revisão de **Pull Requests**
-- Desenvolvimento de componentes, telas e integrações
-- Trabalho colaborativo em fluxo Git com equipe
+<a href="https://github.com/DD-Desenvolvimento-de-Sistemas" target="_blank">
+  <img src="https://avatars.githubusercontent.com/u/104174803?v=4" width="100" alt="Logo Drear"/>
+</a>
 
-**Stack no Drear:**
+<br><br>
+
+**Drear**
+
+    </td>
+    <td width="80%" valign="top">
+
+Desenvolvedor na **[Drear](https://github.com/DD-Desenvolvimento-de-Sistemas)** — empresa brasileira focada em entregar o mais alto nível em desenvolvimento de soluções para o mercado.
+
+**Atuação nos repositórios privados da organização:**
+- Commits em **JavaScript**, **TypeScript** e **React**
+- Abertura, revisão e merge de **Pull Requests**
+- Desenvolvimento de componentes, telas, integrações e correções
+- Trabalho em equipe com fluxo Git (branches, PRs e code review)
+
+**Stack principal:**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -48,16 +80,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-    </td>
-    <td width="30%" valign="top" align="center">
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,git,github&perline=2" alt="Drear Stack"/>
-
-<br><br>
-
-*Repositório privado da equipe Drear*
+> Os commits e PRs na Drear aparecem nas estatísticas abaixo (contribuições privadas habilitadas no perfil).
 
     </td>
   </tr>
@@ -82,9 +105,11 @@
 
 ## Estatísticas do GitHub
 
+*Inclui contribuições públicas e privadas (Drear + projetos pessoais).*
+
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Mendes40&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mendes40&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true&custom_title=Contribui%C3%A7%C3%B5es%20%28p%C3%BAblicas%20%2B%20privadas%29" width="48%" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mendes40&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E" width="48%" alt="GitHub Streak"/>
 
   <br><br>
