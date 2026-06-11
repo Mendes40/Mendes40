@@ -8,7 +8,7 @@
 
 <br>
 
-## `>
+## 
 
 ```diff
 + Nome .......... Gustavo Mendes Soares
@@ -37,7 +37,7 @@
 
 <br>
 
-## `> stack.data_pipeline`
+## 
 
 Desenvolvedor **Full Stack** com experiência em **coleta, tratamento e exposição de dados** via APIs, bancos **NoSQL** e interfaces em **React**.
 
@@ -64,7 +64,7 @@ Desenvolvedor **Full Stack** com experiência em **coleta, tratamento e exposiç
 
 <br>
 
-## `> repositories.public`
+## 
 
 <div align="center">
 
@@ -82,7 +82,7 @@ Desenvolvedor **Full Stack** com experiência em **coleta, tratamento e exposiç
 
 <br>
 
-## `> metrics.stream`
+## 
 
 <div align="center">
 
@@ -100,7 +100,7 @@ Desenvolvedor **Full Stack** com experiência em **coleta, tratamento e exposiç
 
 <br>
 
-## `> activity.log`
+## 
 
 <div align="center">
 
@@ -110,7 +110,7 @@ Desenvolvedor **Full Stack** com experiência em **coleta, tratamento e exposiç
 
 <br>
 
-## `> 
+## 
 
 <div align="center">
 
