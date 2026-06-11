@@ -14,5 +14,11 @@ Olá, me chamo Gustavo Mendes, busco estágio em area correaltas a Analise e Des
   <img align="center" alt="Mendes-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
-  
- 
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mendes40/Mendes40/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mendes40/Mendes40/output/github-contribution-grid-snake.svg" />
+  <img alt="Cobrinha comendo meus commits" src="https://raw.githubusercontent.com/Mendes40/Mendes40/output/github-contribution-grid-snake.svg" />
+</picture>
+
