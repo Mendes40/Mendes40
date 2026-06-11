@@ -21,8 +21,8 @@ jobs:
         with:
           github_user_name: Mendes40
           outputs: |
-            dist/snake.gif?color_snake=00ff88&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353&color_background=#0d1117
-            dist/snake-dark.svg?palette=github-dark&color_snake=58a6ff
+            dist/snake.gif?color_snake=%23001f3f&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353&color_background=#0d1117
+            dist/snake-dark.svg?palette=github-dark&color_snake=%23001f3f
 
       - name: push snake assets to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0

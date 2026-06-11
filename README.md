@@ -120,7 +120,7 @@ Sistema completo para gestão de academias (monorepo **Nx**), com frontend em **
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/Mendes40/Mendes40/output/snake.gif" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/Mendes40/Mendes40/output/snake.gif?v=navy" alt="Snake animation"/>
 
 </div>
 
