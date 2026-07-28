@@ -60,36 +60,6 @@ Desenvolvedor **Full Stack** com experiência em **coleta, tratamento e exposiç
 
   <img src="https://skillicons.dev/icons?i=ts,react,nodejs,nestjs,mongodb,aws,docker,python,git,github,vscode&perline=6" alt="Tech Stack"/>
 
-</div>
-
-<br>
-
-## 
-
-<div align="center">
-
-  <br><br>
-
-
-</div>
-
-<br>
-
-## 
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Mendes40&show_icons=true&hide_border=true&bg_color=000000&title_color=00ff41&icon_color=00ff41&text_color=00ff41&border_color=003300&count_private=true&include_all_commits=true&custom_title=DATA%20CONTRIBUTIONS" alt="GitHub Stats"/>
-
-  <br><br>
-
-  <img src="https://streak-stats.demolab.com/?user=Mendes40&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=00FF41&border=003300" alt="GitHub Streak"/>
-
-  <br><br>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mendes40&layout=compact&hide_border=true&bg_color=000000&title_color=00ff41&text_color=00ff41&border_color=003300&langs_count=8&card_width=500&exclude_repo=rateio" alt="Top Languages"/>
-
-</div>
 
 <br>
 
