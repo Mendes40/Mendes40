@@ -68,15 +68,8 @@ Desenvolvedor **Full Stack** com experiência em **coleta, tratamento e exposiç
 
 <div align="center">
 
-  <a href="https://github.com/Mendes40/rateio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mendes40&repo=rateio&hide_border=true&bg_color=000000&title_color=00ff41&icon_color=00ff41&text_color=00ff41&border_color=003300" alt="rateio"/>
-  </a>
-
   <br><br>
 
-  <a href="https://github.com/Mendes40/netflix_Clone">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mendes40&repo=netflix_Clone&hide_border=true&bg_color=000000&title_color=00ff41&icon_color=00ff41&text_color=00ff41&border_color=003300" alt="netflix_Clone"/>
-  </a>
 
 </div>
 
